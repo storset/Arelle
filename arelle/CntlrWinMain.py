@@ -25,7 +25,7 @@ try:
     import syslog
 except ImportError:
     syslog = None
-import tkinter.tix
+#import tkinter.tix
 import tkinter.filedialog
 import tkinter.messagebox, traceback
 import tkinter.simpledialog
